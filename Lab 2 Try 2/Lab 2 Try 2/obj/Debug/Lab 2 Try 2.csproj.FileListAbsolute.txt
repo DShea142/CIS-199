@@ -1,0 +1,10 @@
+C:\Users\DShea\OneDrive\Desktop\CIS 199\Lab 2 Try 2\Lab 2 Try 2\bin\Debug\Lab 2 Try 2.exe.config
+C:\Users\DShea\OneDrive\Desktop\CIS 199\Lab 2 Try 2\Lab 2 Try 2\bin\Debug\Lab 2 Try 2.exe
+C:\Users\DShea\OneDrive\Desktop\CIS 199\Lab 2 Try 2\Lab 2 Try 2\bin\Debug\Lab 2 Try 2.pdb
+C:\Users\DShea\OneDrive\Desktop\CIS 199\Lab 2 Try 2\Lab 2 Try 2\obj\Debug\Lab 2 Try 2.csproj.AssemblyReference.cache
+C:\Users\DShea\OneDrive\Desktop\CIS 199\Lab 2 Try 2\Lab 2 Try 2\obj\Debug\Lab_2_Try_2.Properties.Resources.resources
+C:\Users\DShea\OneDrive\Desktop\CIS 199\Lab 2 Try 2\Lab 2 Try 2\obj\Debug\Lab 2 Try 2.csproj.GenerateResource.cache
+C:\Users\DShea\OneDrive\Desktop\CIS 199\Lab 2 Try 2\Lab 2 Try 2\obj\Debug\Lab 2 Try 2.csproj.CoreCompileInputs.cache
+C:\Users\DShea\OneDrive\Desktop\CIS 199\Lab 2 Try 2\Lab 2 Try 2\obj\Debug\Lab 2 Try 2.exe
+C:\Users\DShea\OneDrive\Desktop\CIS 199\Lab 2 Try 2\Lab 2 Try 2\obj\Debug\Lab 2 Try 2.pdb
+C:\Users\DShea\OneDrive\Desktop\CIS 199\Lab 2 Try 2\Lab 2 Try 2\obj\Debug\Lab_2_Try_2.Form1.resources
