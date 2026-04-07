@@ -1,0 +1,7 @@
+C:\Users\DShea\OneDrive\Desktop\CIS 199\CIS-199-Lab 1\CIS-199-Lab 1\bin\Debug\CIS-199-Lab 1.exe.config
+C:\Users\DShea\OneDrive\Desktop\CIS 199\CIS-199-Lab 1\CIS-199-Lab 1\bin\Debug\CIS-199-Lab 1.exe
+C:\Users\DShea\OneDrive\Desktop\CIS 199\CIS-199-Lab 1\CIS-199-Lab 1\bin\Debug\CIS-199-Lab 1.pdb
+C:\Users\DShea\OneDrive\Desktop\CIS 199\CIS-199-Lab 1\CIS-199-Lab 1\obj\Debug\CIS-199-Lab 1.csproj.AssemblyReference.cache
+C:\Users\DShea\OneDrive\Desktop\CIS 199\CIS-199-Lab 1\CIS-199-Lab 1\obj\Debug\CIS-199-Lab 1.csproj.CoreCompileInputs.cache
+C:\Users\DShea\OneDrive\Desktop\CIS 199\CIS-199-Lab 1\CIS-199-Lab 1\obj\Debug\CIS-199-Lab 1.exe
+C:\Users\DShea\OneDrive\Desktop\CIS 199\CIS-199-Lab 1\CIS-199-Lab 1\obj\Debug\CIS-199-Lab 1.pdb
